@@ -1,0 +1,162 @@
+[
+  {
+    "client_id": "hospital_1",
+    "round": 0,
+    "timestamp": "2026-05-26T12:21:46.365024",
+    "anomaly_score": -0.4311918810731305,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_2",
+    "round": 0,
+    "timestamp": "2026-05-26T12:21:46.389046",
+    "anomaly_score": -0.6093684394882753,
+    "is_malicious": true,
+    "decision": "REJECTED"
+  },
+  {
+    "client_id": "hospital_3",
+    "round": 0,
+    "timestamp": "2026-05-26T12:21:46.412511",
+    "anomaly_score": -0.5063745811424386,
+    "is_malicious": true,
+    "decision": "REJECTED"
+  },
+  {
+    "client_id": "hospital_4",
+    "round": 0,
+    "timestamp": "2026-05-26T12:21:46.436664",
+    "anomaly_score": -0.4080110906957182,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_5",
+    "round": 0,
+    "timestamp": "2026-05-26T12:21:46.460863",
+    "anomaly_score": -0.45091589569508944,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_1",
+    "round": 1,
+    "timestamp": "2026-05-26T12:21:46.484443",
+    "anomaly_score": -0.3978703592691671,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_4",
+    "round": 1,
+    "timestamp": "2026-05-26T12:21:46.512471",
+    "anomaly_score": -0.4498828058231208,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_5",
+    "round": 1,
+    "timestamp": "2026-05-26T12:21:46.538553",
+    "anomaly_score": -0.3921505475957671,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_1",
+    "round": 2,
+    "timestamp": "2026-05-26T12:21:46.563440",
+    "anomaly_score": -0.5141679788709451,
+    "is_malicious": true,
+    "decision": "REJECTED"
+  },
+  {
+    "client_id": "hospital_4",
+    "round": 2,
+    "timestamp": "2026-05-26T12:21:46.589142",
+    "anomaly_score": -0.42209395783014453,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_5",
+    "round": 2,
+    "timestamp": "2026-05-26T12:21:46.612096",
+    "anomaly_score": -0.551924937750142,
+    "is_malicious": true,
+    "decision": "REJECTED"
+  },
+  {
+    "client_id": "hospital_4",
+    "round": 3,
+    "timestamp": "2026-05-26T12:21:46.637256",
+    "anomaly_score": -0.42531121818010853,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "adversary_1",
+    "round": 3,
+    "timestamp": "2026-05-26T12:21:46.662908",
+    "anomaly_score": -0.7161091721264208,
+    "is_malicious": true,
+    "decision": "REJECTED"
+  },
+  {
+    "client_id": "adversary_2",
+    "round": 3,
+    "timestamp": "2026-05-26T12:21:46.702227",
+    "anomaly_score": -0.7036896543528842,
+    "is_malicious": true,
+    "decision": "REJECTED"
+  },
+  {
+    "client_id": "hospital_4",
+    "round": 4,
+    "timestamp": "2026-05-26T12:21:46.737709",
+    "anomaly_score": -0.4592557910747508,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_4",
+    "round": 5,
+    "timestamp": "2026-05-26T12:21:46.760057",
+    "anomaly_score": -0.4047167407063765,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_4",
+    "round": 6,
+    "timestamp": "2026-05-26T12:21:46.782722",
+    "anomaly_score": -0.4039281674052815,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_4",
+    "round": 7,
+    "timestamp": "2026-05-26T12:21:46.805251",
+    "anomaly_score": -0.47415718461956646,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_4",
+    "round": 8,
+    "timestamp": "2026-05-26T12:21:46.828748",
+    "anomaly_score": -0.4627268701533727,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_4",
+    "round": 9,
+    "timestamp": "2026-05-26T12:21:46.853430",
+    "anomaly_score": -0.597711498755794,
+    "is_malicious": true,
+    "decision": "REJECTED"
+  }
+]

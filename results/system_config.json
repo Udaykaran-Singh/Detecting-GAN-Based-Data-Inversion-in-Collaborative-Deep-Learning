@@ -1,0 +1,22 @@
+{
+  "project_name": "GAN Attack Detection System",
+  "version": "1.0",
+  "created_date": "2026-05-26T12:21:48.157210",
+  "model_type": "Isolation Forest",
+  "feature_count": 155,
+  "training_samples": 210,
+  "detection_accuracy": 0.8888888888888888,
+  "system_status": {
+    "total_submissions": 2,
+    "malicious_detected": 2,
+    "normal_accepted": 0,
+    "isolated_clients": 2,
+    "active_clients": 0,
+    "detection_rate": 1.0,
+    "status": "operational",
+    "isolated_clients_list": [
+      "hospital_test",
+      "adversary_test"
+    ]
+  }
+}

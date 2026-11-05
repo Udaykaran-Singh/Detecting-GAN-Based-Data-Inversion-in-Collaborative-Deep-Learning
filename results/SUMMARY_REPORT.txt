@@ -1,0 +1,63 @@
+
+╔══════════════════════════════════════════════════════════╗
+║         GAN ATTACK DETECTION SYSTEM - SUMMARY           ║
+╚══════════════════════════════════════════════════════════╝
+
+📅 Generated: 2026-05-26 12:21:48
+
+📊 MODEL PERFORMANCE:
+────────────────────────────────────────────────────────────
+  Accuracy:  88.89% if 'results' in locals() else 'N/A'
+  Precision: 81.08% if 'results' in locals() else 'N/A'
+  Recall:    100.00% if 'results' in locals() else 'N/A'
+  F1-Score:  89.55% if 'results' in locals() else 'N/A'
+  ROC AUC:   1.0000 if 'results' in locals() else 'N/A'
+
+🎯 DETECTION CAPABILITIES:
+────────────────────────────────────────────────────────────
+   Real-time gradient monitoring
+   GAN-based attack identification
+   Automatic client isolation
+   Anomaly score calculation
+   Comprehensive logging
+
+📁 GENERATED FILES:
+────────────────────────────────────────────────────────────
+  Models:
+    - models/detector.pkl
+    - models/feature_extractor.pkl
+
+  Data:
+    - data/features_X.npy
+    - data/labels_y.npy
+    - data/raw_gradients.pkl
+
+  Visualizations:
+    - visualizations/mnist_samples.png
+    - visualizations/feature_distributions.png
+    - visualizations/roc_curve.png
+    - visualizations/confusion_matrix.png
+    - visualizations/anomaly_scores.png
+    - visualizations/interactive_dashboard.html
+    - visualizations/performance_analysis.png
+    - visualizations/system_dashboard.png
+
+  Logs & Results:
+    - logs/detection_logs.json
+    - results/system_config.json
+    - results/model_performance.json
+
+💡 USAGE:
+────────────────────────────────────────────────────────────
+  1. Load system:
+     system = CompleteGANDetectionSystem()
+     system.initialize()
+
+  2. Check gradient:
+     result = system.detect_gradient(client_id, gradients, round)
+
+  3. View status:
+     status = system.get_system_status()
+
+ SYSTEM STATUS: OPERATIONAL
+════════════════════════════════════════════════════════════

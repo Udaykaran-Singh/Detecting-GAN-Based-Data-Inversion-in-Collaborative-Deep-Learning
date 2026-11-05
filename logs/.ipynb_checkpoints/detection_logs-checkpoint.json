@@ -1,0 +1,282 @@
+[
+  {
+    "client_id": "hospital_1",
+    "round": 0,
+    "timestamp": "2026-05-25T00:11:47.333648",
+    "anomaly_score": -0.4279559830387575,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_2",
+    "round": 0,
+    "timestamp": "2026-05-25T00:11:47.359578",
+    "anomaly_score": -0.4308140066393573,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_3",
+    "round": 0,
+    "timestamp": "2026-05-25T00:11:47.387356",
+    "anomaly_score": -0.47264045075722416,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_4",
+    "round": 0,
+    "timestamp": "2026-05-25T00:11:47.412316",
+    "anomaly_score": -0.4606429165940271,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_5",
+    "round": 0,
+    "timestamp": "2026-05-25T00:11:47.437455",
+    "anomaly_score": -0.42643766371558117,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_1",
+    "round": 1,
+    "timestamp": "2026-05-25T00:11:47.460701",
+    "anomaly_score": -0.444002869634009,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_2",
+    "round": 1,
+    "timestamp": "2026-05-25T00:11:47.483792",
+    "anomaly_score": -0.4353524783183692,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_3",
+    "round": 1,
+    "timestamp": "2026-05-25T00:11:47.506438",
+    "anomaly_score": -0.4594345303052747,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_4",
+    "round": 1,
+    "timestamp": "2026-05-25T00:11:47.532182",
+    "anomaly_score": -0.4342702376207992,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_5",
+    "round": 1,
+    "timestamp": "2026-05-25T00:11:47.556073",
+    "anomaly_score": -0.4496105015497312,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_1",
+    "round": 2,
+    "timestamp": "2026-05-25T00:11:47.580076",
+    "anomaly_score": -0.41885421038081344,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_2",
+    "round": 2,
+    "timestamp": "2026-05-25T00:11:47.605963",
+    "anomaly_score": -0.4743395497816348,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_3",
+    "round": 2,
+    "timestamp": "2026-05-25T00:11:47.627368",
+    "anomaly_score": -0.45247492866662836,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_4",
+    "round": 2,
+    "timestamp": "2026-05-25T00:11:47.652519",
+    "anomaly_score": -0.4307303331055774,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_5",
+    "round": 2,
+    "timestamp": "2026-05-25T00:11:47.678136",
+    "anomaly_score": -0.4085230477027198,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_1",
+    "round": 3,
+    "timestamp": "2026-05-25T00:11:47.703555",
+    "anomaly_score": -0.4129172429139851,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_2",
+    "round": 3,
+    "timestamp": "2026-05-25T00:11:47.727794",
+    "anomaly_score": -0.44524274189157914,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_3",
+    "round": 3,
+    "timestamp": "2026-05-25T00:11:47.750623",
+    "anomaly_score": -0.546246844339165,
+    "is_malicious": true,
+    "decision": "REJECTED"
+  },
+  {
+    "client_id": "hospital_4",
+    "round": 3,
+    "timestamp": "2026-05-25T00:11:47.774093",
+    "anomaly_score": -0.4634801406593325,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_5",
+    "round": 3,
+    "timestamp": "2026-05-25T00:11:47.798863",
+    "anomaly_score": -0.5634906330250637,
+    "is_malicious": true,
+    "decision": "REJECTED"
+  },
+  {
+    "client_id": "adversary_1",
+    "round": 3,
+    "timestamp": "2026-05-25T00:11:47.825270",
+    "anomaly_score": -0.7125075082131891,
+    "is_malicious": true,
+    "decision": "REJECTED"
+  },
+  {
+    "client_id": "adversary_2",
+    "round": 3,
+    "timestamp": "2026-05-25T00:11:47.860700",
+    "anomaly_score": -0.712183544764503,
+    "is_malicious": true,
+    "decision": "REJECTED"
+  },
+  {
+    "client_id": "hospital_1",
+    "round": 4,
+    "timestamp": "2026-05-25T00:11:47.894267",
+    "anomaly_score": -0.40801686857379954,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_2",
+    "round": 4,
+    "timestamp": "2026-05-25T00:11:47.918495",
+    "anomaly_score": -0.40266512812884975,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_4",
+    "round": 4,
+    "timestamp": "2026-05-25T00:11:47.941914",
+    "anomaly_score": -0.478370390598372,
+    "is_malicious": true,
+    "decision": "REJECTED"
+  },
+  {
+    "client_id": "hospital_1",
+    "round": 5,
+    "timestamp": "2026-05-25T00:11:47.966741",
+    "anomaly_score": -0.4469113561537158,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_2",
+    "round": 5,
+    "timestamp": "2026-05-25T00:11:47.992403",
+    "anomaly_score": -0.4752397334701798,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_1",
+    "round": 6,
+    "timestamp": "2026-05-25T00:11:48.016954",
+    "anomaly_score": -0.466454605963071,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_2",
+    "round": 6,
+    "timestamp": "2026-05-25T00:11:48.041550",
+    "anomaly_score": -0.4651322062707338,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_1",
+    "round": 7,
+    "timestamp": "2026-05-25T00:11:48.064099",
+    "anomaly_score": -0.40693165037086043,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_2",
+    "round": 7,
+    "timestamp": "2026-05-25T00:11:48.086756",
+    "anomaly_score": -0.40557250135009326,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_1",
+    "round": 8,
+    "timestamp": "2026-05-25T00:11:48.110129",
+    "anomaly_score": -0.40103967334853613,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_2",
+    "round": 8,
+    "timestamp": "2026-05-25T00:11:48.133481",
+    "anomaly_score": -0.4519567114096955,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  },
+  {
+    "client_id": "hospital_1",
+    "round": 9,
+    "timestamp": "2026-05-25T00:11:48.156561",
+    "anomaly_score": -0.4773810187559374,
+    "is_malicious": true,
+    "decision": "REJECTED"
+  },
+  {
+    "client_id": "hospital_2",
+    "round": 9,
+    "timestamp": "2026-05-25T00:11:48.179734",
+    "anomaly_score": -0.38052602138325775,
+    "is_malicious": false,
+    "decision": "ACCEPTED"
+  }
+]
